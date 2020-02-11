@@ -35,6 +35,12 @@ VERSION
     
     Automatically downloads an O365 user report
     
+.DESCRIPTION
+   
+    Script automation to obtain, download and convert information from O365 users. Authentication is required against ExchangeOnline and AzureAD. It uses the Get-MSOLUser, Get-Mailbox and Get-MailboxStatistics functions.
+
+
+    
     
 .EXAMPLE 
     
